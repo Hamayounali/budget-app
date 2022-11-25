@@ -32,7 +32,7 @@ To use this project you first need to have installed the following:
 
 User the below link to clone the repository:
 
-```git clone https://github.com/Yothu/budget-app-capstone.git```
+```git clone https://github.com/Hamayounali/budget-app.git ```
 
 ### Database creation
 
