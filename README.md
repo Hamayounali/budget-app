@@ -14,7 +14,7 @@ Moble application whih is used to create categoreis of expences and then store m
 ## Live Demo
 Check this [live demo]() of the page!
 
-Check this [Vedio Link](https://drive.google.com/file/d/116diuf78QfMi6LzeNbbY1uv_bXvgvIYt/view?usp=sharing) of the page!
+Check this [Vedio Link](https://drive.google.com/file/d/116diuf78QfMi6LzeNbbY1uv_bXvgvIYt/view?usp=sharing)!
 
 ## Getting Started
 
