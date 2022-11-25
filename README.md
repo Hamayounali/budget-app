@@ -2,6 +2,7 @@
 # BUDGETS!
 
 Moble application whih is used to create categoreis of expences and then store money transactins in ecah category. 
+![image](https://user-images.githubusercontent.com/22744775/204025630-dfc4c8e6-0e2e-46ac-b9a4-b9fc547280cf.png)
 
 ## Built With
 
@@ -74,7 +75,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to my family for all the support that thay give me.
 - [Original design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) created by [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance.
 
 ## 📝 License
