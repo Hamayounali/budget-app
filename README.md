@@ -1,7 +1,7 @@
 
 # BUDGETS!
 
-Moble application whih is used to create categoreis of expences and then store money transactins in ecah category. 
+Moble application whih is used to create categories of expenses and then store money transactions in each category.
 
 ![image](https://user-images.githubusercontent.com/22744775/204025630-dfc4c8e6-0e2e-46ac-b9a4-b9fc547280cf.png)
 
